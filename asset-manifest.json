@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TODOO/static/css/main.449ab0a7.css",
-    "main.js": "/TODOO/static/js/main.795f38a2.js",
-    "static/js/787.eaf3e1f6.chunk.js": "/TODOO/static/js/787.eaf3e1f6.chunk.js",
-    "index.html": "/TODOO/index.html",
-    "main.449ab0a7.css.map": "/TODOO/static/css/main.449ab0a7.css.map",
-    "main.795f38a2.js.map": "/TODOO/static/js/main.795f38a2.js.map",
-    "787.eaf3e1f6.chunk.js.map": "/TODOO/static/js/787.eaf3e1f6.chunk.js.map"
+    "main.css": "/todoo/static/css/main.449ab0a7.css",
+    "main.js": "/todoo/static/js/main.74fe7eac.js",
+    "static/js/787.eaf3e1f6.chunk.js": "/todoo/static/js/787.eaf3e1f6.chunk.js",
+    "index.html": "/todoo/index.html",
+    "main.449ab0a7.css.map": "/todoo/static/css/main.449ab0a7.css.map",
+    "main.74fe7eac.js.map": "/todoo/static/js/main.74fe7eac.js.map",
+    "787.eaf3e1f6.chunk.js.map": "/todoo/static/js/787.eaf3e1f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.449ab0a7.css",
-    "static/js/main.795f38a2.js"
+    "static/js/main.74fe7eac.js"
   ]
 }
